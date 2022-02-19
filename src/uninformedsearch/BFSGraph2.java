@@ -2,7 +2,9 @@ package uninformedsearch;
 
 import java.util.Iterator;
 import java.util.LinkedList;
-
+/*
+* Breadth - first algorithm in Java...
+* */
 public class BFSGraph2 {
     private int V;
     private LinkedList<Integer> adj[];
